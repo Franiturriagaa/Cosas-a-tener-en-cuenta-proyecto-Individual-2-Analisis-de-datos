@@ -1,4 +1,5 @@
 # Cosas a tener en cuenta - Proyecto Individual 2 Data Analyst
+## ROL A INTERPRETAR
 
 ## MINIMOS ENTREGABLES
 
